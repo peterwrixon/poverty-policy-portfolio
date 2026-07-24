@@ -1,4 +1,4 @@
-Independent candidates are highly vulnerable to strategic lawsuits against public participation (SLAPPs) and targeted misinformation because they lack in-house party legal teams.# Executive Summary
+# Executive Summary
 
 The UK parliamentary system imposes severe financial barriers on low-income citizens,
 systematically excluding recipients of Universal Credit, Personal Independence Payment (PIP), and Pension Credit from elected office. This exclusion restricts the operational lived experience within Parliament, directly reducing the quality of welfare and public sector legislation.

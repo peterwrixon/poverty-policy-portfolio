@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Student Loans Reforms.md",
+                "file": "Political Access & Capability Reform/The Democratic Access and Protection Fund.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Student Loans Reforms"
+              "title": "The Democratic Access and Protection Fund"
             }
           }
         ],
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Executive",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +103,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -123,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Student Loans Reforms.md",
+                "file": "Political Access & Capability Reform/The Democratic Access and Protection Fund.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +134,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Student Loans Reforms"
+              "title": "Backlinks for The Democratic Access and Protection Fund"
             }
           },
           {
@@ -142,12 +143,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Student Loans Reforms.md",
+                "file": "Political Access & Capability Reform/The Democratic Access and Protection Fund.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Student Loans Reforms"
+              "title": "Outgoing links from The Democratic Access and Protection Fund"
             }
           },
           {
@@ -185,13 +186,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Student Loans Reforms.md",
+                "file": "Political Access & Capability Reform/The Democratic Access and Protection Fund.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Student Loans Reforms"
+              "title": "Outline of The Democratic Access and Protection Fund"
             }
           }
         ]
@@ -212,13 +213,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "1edf7ee34fdcb525",
+  "active": "eefc433d82121080",
   "lastOpenFiles": [
+    "Student Loans Reforms.md",
     "Homeless Prevention/Housing & Council Tax Guarantee (HCG).md",
     "Food & Utility Protections/Universal Credit Redesign Evaluation.md",
     "Homeless Prevention/Untitled.md",
     "Untitled.md",
-    "Student Loans Reforms.md",
     "Political Access & Capability Reform/Student Finance Reforms.md",
     "Food & Utility Protections/jre-8u501-macosx-aarch64.dmg",
     "Food & Utility Protections/Unconfirmed 163298.crdownload",
