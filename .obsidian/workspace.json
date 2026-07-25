@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Political Access & Capability Reform/The Democratic Access and Protection Fund.md",
+                "file": "docs/The Democratic Access and Protection Fund.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Political Access & Capability Reform/The Democratic Access and Protection Fund.md",
+                "file": "docs/The Democratic Access and Protection Fund.md",
                 "mode": "source",
                 "source": false
               },
@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Political Access & Capability Reform/The Democratic Access and Protection Fund.md",
+                "file": "docs/The Democratic Access and Protection Fund.md",
                 "mode": "source",
                 "source": false
               },
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Executive",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,8 +103,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -124,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Political Access & Capability Reform/The Democratic Access and Protection Fund.md",
+                "file": "docs/The Democratic Access and Protection Fund.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Political Access & Capability Reform/The Democratic Access and Protection Fund.md",
+                "file": "docs/The Democratic Access and Protection Fund.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -186,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Political Access & Capability Reform/The Democratic Access and Protection Fund.md",
+                "file": "docs/The Democratic Access and Protection Fund.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -213,18 +212,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "eefc433d82121080",
+  "active": "1edf7ee34fdcb525",
   "lastOpenFiles": [
-    "Student Loans Reforms.md",
-    "Homeless Prevention/Housing & Council Tax Guarantee (HCG).md",
-    "Food & Utility Protections/Universal Credit Redesign Evaluation.md",
-    "Homeless Prevention/Untitled.md",
-    "Untitled.md",
+    "docs/Student Loans Reforms.md",
+    "docs/The Democratic Access and Protection Fund.md",
+    "docs/Universal Credit Premium AI access.md",
+    "Universal Credit Premium AI Quotas.md",
+    "docs/outcome-specific-welfare-reform.md",
+    "README.md",
+    "docs",
+    "Untitled 1.base",
+    "Untitled.base",
     "Political Access & Capability Reform/Student Finance Reforms.md",
+    "docs/Housing & Council Tax Guarantee (HCG).md",
+    "Homeless Prevention/Untitled.md",
     "Food & Utility Protections/jre-8u501-macosx-aarch64.dmg",
     "Food & Utility Protections/Unconfirmed 163298.crdownload",
-    "Political Access & Capability Reform/The Democratic Access and Protection Fund.md",
-    "README.md",
     "Student Loans Support Reform",
     "Food & Utility Protections",
     "Homeless Prevention",

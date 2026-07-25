@@ -1,4 +1,4 @@
-## 1. Introduction and Macroeconomic Context
+## Summary
 
 The financing of higher education in the United Kingdom has reached an unsustainable equilibrium, characterized by severe material deprivation among the student populace, deteriorating institutional finances, and an escalating long-term fiscal burden on the Exchequer. Under the current status quo, domestic undergraduate students in England are subject to Plan 5 loan terms, which mandate income-contingent repayments (ICR) of nine percent on earnings exceeding £25,000, with outstanding balances arbitrarily written off forty years after the statutory repayment due date. While tuition fees have been marginally uplifted to £9,535 for the 2025/26 academic year following prolonged freezes, the associated maintenance support framework has systematically failed to track inflation.
 
